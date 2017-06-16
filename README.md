@@ -12,7 +12,7 @@
 
 * * *
 
-### The full text paper was peer-reviewed at the direction of IEEE Instrumentation and Measurement Society prior to the acceptance and publication.
+### The full text paper was peer-reviewed at the direction of IEEE Instrumentation and Measurement Society prior to the acceptance and publication. http://ieeexplore.ieee.org/document/7894058/
 
 * The paper proposes a novel theme surrounding use of Artificial Intelligence by employing learning/training of Artificial Neural Networks to predict presence/absence of object of interest, Drone in this case. The software framework put together is impressive and exhibits thoughtful process of practical experimentation.
 Since the paper attempts to highlight better use of inexpensive sensing technology, more details on the proposed placement methods of the inexpensive microphone sensor could be valuable to the reader, especially someone interested in real-time monitoring as mentioned in the paper. In addition, in a simplistic view, the central idea is to process the measured audio signal, convert it into a data-set, and use the data-set to train the ANN. The aspects surrounding ANN training and prediction is not obvious from the given description.

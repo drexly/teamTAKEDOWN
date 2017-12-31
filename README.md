@@ -28,3 +28,14 @@ I strongly recommend this paper to SAS 2017.
 
 ### Presentation in 2017 IEEE SAS(Just a photo)
 ![Presentation in 2017 IEEE SAS](/teamTAKEDOWN/sas.png?raw=true "2017.03.08")
+![Presentation in 2017 IEEE SAS](/teamTAKEDOWN/attd.jpg?raw=true "2017.03.08")
+
+* * *
+
+### Futureworks 
+
+Ongoing SCI-TIM Applying by granted as "IEEE TIM 2017 - SAS 2017 Special issue"
+
+Marquis who's who nomination
+![Nomination Email](/teamTAKEDOWN/mwm.PNG?raw=true "Nomination Email")
+
